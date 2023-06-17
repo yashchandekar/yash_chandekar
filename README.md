@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Enhancing and applying my skills**
 
-- 🌱 I’m currently learning **libraries in python**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **SQL,Excel,PowerBI,Python**
 
